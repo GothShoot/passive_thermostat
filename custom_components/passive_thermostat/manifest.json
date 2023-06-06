@@ -1,0 +1,11 @@
+{
+    "domain": "passive_thermostat",
+    "name": "Passive Thermostat",
+    "documentation": "https://github.com/GothShoot/passive_thermostat",
+    "codeowners": ["@GothShoot"],
+    "dependencies": [],
+    "integration_type": "hub",
+    "iot_class": "local_polling",
+    "requirements": [],
+    "config_flow": true
+  }
